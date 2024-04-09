@@ -1,5 +1,4 @@
 # CFII
-Central Finance Information Index
 
 ![Central finance information index](https://github.com/Infi-boy/CFII/assets/155448161/69d6e72b-a35d-46ee-ab1f-1771d936b138)
 
